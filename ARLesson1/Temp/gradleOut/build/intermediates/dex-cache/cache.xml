@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/imac27/Desktop/Projects/ARLesson1/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="/Users/imac27/Desktop/Projects/ARLesson1/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_ce91848c133d6baef820e7f73dada8a3553b94aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/imac27/.android/build-cache/68dd002ea32e30bfcfe9ab204d91b1c115778846/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/imac27/Desktop/Projects/ARLesson1/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_31da9888c2f1bd52160f43fd8bcd45ec336377f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/imac27/.android/build-cache/68dd002ea32e30bfcfe9ab204d91b1c115778846/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1525e08d2db7c0d6b7219dc2a141bb3ff56929ad">
+        <dex dex="/Users/imac27/Desktop/Projects/ARLesson1/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_6af562aeb674a0e1b3b202da572684f56df135b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/imac27/.android/build-cache/68dd002ea32e30bfcfe9ab204d91b1c115778846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/imac27/Desktop/Projects/ARLesson1/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b6636078ab77dd2128b6652b563545143574f2dc.jar" />
+    </item>
+
+</items>
